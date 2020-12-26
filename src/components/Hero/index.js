@@ -20,7 +20,7 @@ const Hero = () => {
     <div className='container mx-auto sm:px-16 px-10 xl:mt-0 md:mt-10 sm:mt-8 mt-5 relative'>
       <div className='flex sm:flex-row flex-col lg:space-x-28 sm:space-x-14 items-center justify-center'>
         <div className='lg:w-3/5 md:w-full relative'>
-          <h1 className='xl:text-7xl md:text-5xl sm:text-4xl text-4xl font-bold hero-title'>
+          <h1 className='xl:text-7xl md:text-5xl sm:text-4xl text-gray-800 text-4xl font-bold hero-title'>
             Stunning Design Tools
           </h1>
           <p className='mt-5 mb-7 opacity-50 z-10'>

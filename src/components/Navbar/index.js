@@ -15,16 +15,28 @@ const Navbar = () => {
               <img src={Logo} className='h-10 w-10' alt='logo' />
             </div>
             <div className='lg:ml-20 md:ml-10  items-center md:flex hidden'>
-              <a href='/' className='mr-10 text-sm hover:opacity-90'>
+              <a
+                href='/'
+                className='mr-10 text-sm text-gray-800 hover:opacity-90'
+              >
                 HOME
               </a>
-              <a href='/' className='mr-10 text-sm hover:opacity-90 opacity-50'>
+              <a
+                href='/'
+                className='mr-10 text-sm text-gray-800 hover:opacity-90 opacity-50'
+              >
                 PLANS
               </a>
-              <a href='/' className='mr-10 text-sm hover:opacity-90 opacity-50'>
+              <a
+                href='/'
+                className='mr-10 text-sm text-gray-800 hover:opacity-90 opacity-50'
+              >
                 FEATURES
               </a>
-              <a href='/' className='mr-10 text-sm hover:opacity-90 opacity-50'>
+              <a
+                href='/'
+                className='mr-10 text-sm text-gray-800 hover:opacity-90 opacity-50'
+              >
                 CONTACT
               </a>
             </div>
