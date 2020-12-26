@@ -1,6 +1,7 @@
 import Logo from './images/Logo.svg'
 import IMGHero from './images/Group 4.png'
 import ICPlay from './images/videoicon.svg'
+import ICMenu from './images/menu.svg'
 import IMGPopup from './images/Popup.svg'
 
 import Designer1 from './images/Designer1.png'
@@ -19,6 +20,7 @@ export {
   IMGHero,
   IMGPopup,
   ICPlay,
+  ICMenu,
   Designer1,
   Designer2,
   Designer3,
