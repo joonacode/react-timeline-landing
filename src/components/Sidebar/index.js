@@ -20,7 +20,7 @@ const Sidebar = () => {
           CONTACT
         </span>
         <span className='mb-7 cursor-pointer text-gray-800 hover:opacity-90 text-lg opacity-50'>
-          Download
+          DOWNLOAD
         </span>
       </div>
     </div>
